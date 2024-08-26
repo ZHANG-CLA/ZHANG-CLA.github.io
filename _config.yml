@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "CONG ZHANG"
+title                    : "ZHANG Cong"
 description              : ""
 repository               : "ZHANG-CLA/zhangcong.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dr. Cong ZHANG"
   avatar           : "images/ZHANG Cong.jpg"
-  bio              : "PostDoc in Hong Kong PolyU | Artificial Intelligence | Remote Sensing"
+  bio              : "PostDoc in Hong Kong PolyU Artificial Intelligence | Remote Sensing | Computer Vision"
   location         : "Hong Kong"
   employer         :
   pubmed           : 

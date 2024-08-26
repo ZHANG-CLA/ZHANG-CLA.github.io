@@ -69,7 +69,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 💻 Academic Activities
+# 💻📚 Academic Activities
 - **Journal Reviewer**
   + IEEE Transactions on Image Processing (IEEE T-IP)
   + IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS)

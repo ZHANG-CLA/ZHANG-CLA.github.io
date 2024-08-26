@@ -47,10 +47,24 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + Yakun Ju, Muwei Jian, Cong Wang, **Cong Zhang**, Junyu Dong, and Kin-Man Lam, “Estimating High-resolution Surface Normals via Lowresolution Photometric Stereo Images,” IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT), vol. 34, no. 4, pp. 2512-2524, 2024, **ESI Highly Cited Paper**.
   + Jingchun Zhou, Rui Zhou, Zongxin He, **Cong Zhang**, Qiuping Jiang, Weishi Zhang, and Ferdous Sohel, “Hierarchical Wavelet Decomposition Network for Water-related Optical Image Enhancement,” IEEE Journal of Oceanic Engineering (IEEE J-OE), 2024.
   + Jun Xiao, Qian Ye, Tianshan Liu, **Cong Zhang**, and Kin-Man Lam, “Deep Progressive Feature Aggregation Network for Multi-frame High Dynamic Range Imaging,” Neurocomputing, vol. 594, pp. 127804, 2024.
-
+    
+- **Selected Conference Papers**
+  + Zihang Lyu, Jun Xiao, **Cong Zhang**, and Kin-Man Lam, “AI-Generated Image Detection with Wasserstein Distance Compression and Dynamic Aggregation,” in Proc. IEEE International Conference on Image Processing (ICIP), 2025, Oral.
+  + Yun Li, Hao Xie, Jun Xiao, **Cong Zhang**, Tianshan Liu, and Kin-Man Lam, “Hierarchical Vertex-wise Intensification Graph Convolution for Skeleton-based Activity Recognition,” in Proc. IEEE International Conference on Image Processing (ICIP), 2025, Poster.
+  + Jun Xiao, Zihang Lyu, **Cong Zhang**, Yakun Ju, Changjian Shui, and Kin-Man Lam, “Towards Progressive Multi-Frequency Representation for Image Warping,” in Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+  + **Cong Zhang**, Yakun Ju, Jun Xiao, Yuting Yang, and Kin-Man Lam, “Aligning Localization and Classification for Anchor-Free Object Detection in Aerial Imagery,” in Proc. International Workshop on Advanced Image Technology (IWAIT), vol. 13164, pp. 284-289, 2024, Oral.
+  + **Cong Zhang**, Tianshan Liu, Yakun Ju, and Kin-Man Lam, “Pyramid Masked Image Modeling for Transformer-Based Aerial Object Detection,” in Proc. IEEE International Conference on Image Processing (ICIP), pp. 1675-1679, 2023, Oral.
+  + Yakun Ju, Kin-Man Lam, Jun Xiao, **Cong Zhang**, Cuixin Yang, and Junyu Dong, “Efficient Feature Fusion for Learning-based Photometric Stereo,” in Proc. IEEE International Conference on Acoustic, Speech and Signal Processing (ICASSP), 2023, Poster.
+  + Yakun Ju, **Cong Zhang**, Songsong Huang, Yuan Rao, and Kin-Man Lam, “Learning Deep Photometric Stereo Network with Reflectance Priors,” in Proc. IEEE International Conference on Multimedia and Expo (ICME), pp. 2027-2032, 2023, Poster.
+  + **Cong Zhang**, Tianshan Liu, and Kin-Man Lam, “Angle Tokenization Guided Multi-Scale Vision Transformer for Oriented Object Detection in Remote Sensing Imagery,” in Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 3063-3066, 2022, Oral.
+  + **Cong Zhang**, Qi Wang, and Xuelong Li, “IQ-STAN: Image Quality Guided Spatio-Temporal Attention Network for License Plate Recognition,” in Proc. IEEE International Conference on Acoustic, Speech and Signal Processing (ICASSP), pp. 2268-2272, 2020, Oral.
+  + **Cong Zhang**, Qi Wang, and Xuelong Li, “EQ-LPR: Efficient Quality-aware License Plate Recognition,” in Proc. IEEE International Conference on Image Processing (ICIP), pp. 653-657, 2020, Oral.
+  + **Cong Zhang**, Qi Wang, and Xuelong Li, “A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment,” in Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 10055-10058, 2019, Poster.
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Academic Activities
 - **Journal Reviewer**

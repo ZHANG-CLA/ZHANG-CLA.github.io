@@ -74,8 +74,10 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + IEEE Transactions on Image Processing (IEEE T-IP)
   + IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS)
   + IEEE Transactions on Cybernetics (IEEE T-CYB)
+  + IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE T-SMCS)
   + IEEE Transactions on Industrial Informatics (IEEE T-II)
   + IEEE Transactions on Industrial Electronics (IEEE T-IE)
+  + IEEE Transactions on  Instrumentation and Measurement (IEEE T-IM)
   + IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)
   + IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)
   + IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE T-ETCI)
@@ -84,8 +86,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + IEEE Sensors Journal
   + Computer Vision and Image Understanding (CVIU)
   + Neural Networks (NN)
-  + Neurocomputing
-  + Remote Sensing
+  + \cdots \cdots
 - **Conference Reviewer**
   + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   + AAAI Conference on Artificial Intelligence (AAAI)

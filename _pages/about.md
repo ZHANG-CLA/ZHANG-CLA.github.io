@@ -27,10 +27,26 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 -->
 
 # 📖 Educations
-- *2021.08 - 2024.08* &ensp; P.hD. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University. 
-- *2018.08 - 2021.04* &ensp; M.Eng. from School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnical University, Xi’an, China.
-- *2014.09 - 2018.07* &ensp; B.Eng. from School of Electronics and Information, Northwestern Polytechnical University, Xi’an, China.
+- *2021.08 - 2024.08* &nbsp; P.hD. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University. 
+- *2018.08 - 2021.04* &nbsp; M.Eng. from School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnical University, Xi’an, China.
+- *2014.09 - 2018.07* &nbsp; B.Eng. from School of Electronics and Information, Northwestern Polytechnical University, Xi’an, China.
 
+# 📝 Publications 
+- **Please refer to [Google Scholar](https://scholar.google.com.hk/citations?user=hHUH1VAAAAAJ) for the full publication list**
+- **Selected Journal Papers**
+  + **Cong Zhang**, Kin-Man Lam, Tianshan Liu, Yui-Lam Chan, and Qi Wang, “Structured Adversarial Self-Supervised Learning for Robust Object Detection in Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 62, 2024.
+  + **Cong Zhang**, Jingran Su, Yakun Ju, Kin-Man Lam, and Qi Wang, “Efficient Inductive Vision Transformer for Oriented Object Detection in Remote Sensing Imagery,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 61, 2023, **ESI Highly Cited Paper**.
+  + **Cong Zhang**, Kin-Man Lam, and Qi Wang, “CoF-Net: A Progressive Coarse-to-Fine Framework for Object Detection in Remote-Sensing Imagery,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 61, 2023, **ESI Highly Cited Paper**.
+  + **Cong Zhang**, Tianshan Liu, Jun Xiao, Kin-Man Lam, and Qi Wang, “Boosting Object Detectors via Strong-Classification Weak-Localization Pretraining in Remote Sensing Imagery,” IEEE Transactions on on Instrumentation and Measurement (IEEE T-IM), vol. 72, 2023.
+  + **Cong Zhang**, Jun Xiao, Cuixin Yang, Jingchun Zhou, Kin-Man Lam, and Qi Wang, “Integrally Mixing Pyramid Representations for Anchor-Free Object Detection in Aerial Imagery,” IEEE Geoscience and Remote Sensing Letters (IEEE GRSL), vol. 21, 2024.
+  + **Cong Zhang**, Qi Wang, and Xuelong Li, “V-LPDR: Towards a Unied Framework for License Plate Detection, Tracking, and Recognition in Real-World Traffic Videos,” Neurocomputing, vol. 449, pp. 189-206, 2021.
+  + Jinhao Shen, **Cong Zhang**, Mingwei Zhang, Qiang Li, and Qi Wang, “Learning Remote Sensing Aleatoric Uncertainty for Semi-Supervised Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 62, 2024.
+  + Jinhao Shen, **Cong Zhang**, Yuan Yuan, and Qi Wang, “Enhancing Prospective Consistency for Semi-Supervised Object Detection in Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 61, 2023.
+  + Tianshan Liu, **Cong Zhang**, Kin-Man Lam, and Jun Kong, “Decouple and Resolve: Transformer-Based Models for Online Anomaly Detection From Weakly Labeled Videos,” IEEE Transactions on Information Forensics and Security (IEEE T-IFS), vol. 18, pp. 15-28, 2023.
+  + Qi Wang, Xiaocheng Lu, **Cong Zhang**, Yuan Yuan, and Xuelong Li, “LSV-LP: Large-Scale Video-Based License Plate Detection and Recognition,” IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), vol. 45, no. 1, pp. 752-767, 2023.
+  + Yakun Ju, Muwei Jian, Cong Wang, **Cong Zhang**, Junyu Dong, and Kin-Man Lam, “Estimating High-resolution Surface Normals via Lowresolution Photometric Stereo Images,” IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT), vol. 34, no. 4, pp. 2512-2524, 2024, **ESI Highly Cited Paper**.
+  + Jingchun Zhou, Rui Zhou, Zongxin He, **Cong Zhang**, Qiuping Jiang, Weishi Zhang, and Ferdous Sohel, “Hierarchical Wavelet Decomposition Network for Water-related Optical Image Enhancement,” IEEE Journal of Oceanic Engineering (IEEE J-OE), 2024.
+  + Jun Xiao, Qian Ye, Tianshan Liu, **Cong Zhang**, and Kin-Man Lam, “Deep Progressive Feature Aggregation Network for Multi-frame High Dynamic Range Imaging,” Neurocomputing, vol. 594, pp. 127804, 2024.
 
 # 🎖 Honors and Awards
 - National Scholarship (Top 1%), *2018*

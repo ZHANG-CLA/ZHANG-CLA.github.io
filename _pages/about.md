@@ -66,16 +66,16 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + IEEE Intelligent Systems (IEEE IS)
   + IEEE Sensors Journal
   + Computer Vision and Image Understanding (CVIU)
-  + Neural Networks (NN),
+  + Neural Networks (NN)
   + Neurocomputing
-	+ Remote Sensing
+  + Remote Sensing
 - **Conference Reviewer**
   + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   + AAAI Conference on Artificial Intelligence (AAAI)
-	+ International Joint Conference on Artificial Intelligence (IJCAI)
-	+ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+  + International Joint Conference on Artificial Intelligence (IJCAI)
+  + IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
   + IEEE International Conference on Image Processing (ICIP)
-	+ IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
+  + IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
     
 # 🎖 Honors and Awards
 - National Scholarship (Top 1%), *2018*

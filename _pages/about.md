@@ -32,7 +32,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 - *2014.08 - 2018.07* &nbsp; B.Eng. in Communication Engineering from School of Electronics and Information, Northwestern Polytechnical University, Xi’an, China.
 
 # 📝 Publications 
-- **Please refer to [Google Scholar](https://scholar.google.com.hk/citations?user=hHUH1VAAAAAJ) for the full publication list**
+- **Full Publication List: [Google Scholar](https://scholar.google.com.hk/citations?user=hHUH1VAAAAAJ)**
 - **Selected Journal Papers**
   + **Cong Zhang**, Kin-Man Lam, Tianshan Liu, Yui-Lam Chan, and Qi Wang, “Structured Adversarial Self-Supervised Learning for Robust Object Detection in Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 62, 2024.
   + **Cong Zhang**, Jingran Su, Yakun Ju, Kin-Man Lam, and Qi Wang, “Efficient Inductive Vision Transformer for Oriented Object Detection in Remote Sensing Imagery,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 61, 2023, **ESI Highly Cited Paper**.

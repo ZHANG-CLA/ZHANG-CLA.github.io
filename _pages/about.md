@@ -27,7 +27,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 -->
 
 # 📖 Educations
-- *2021.08 - 2024.08* &nbsp; P.hD. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University. 
+- *2021.08 - 2024.08* &nbsp; Ph.D. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University. 
 - *2018.08 - 2021.04* &nbsp; M.Eng. from School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnical University, Xi’an, China.
 - *2014.09 - 2018.07* &nbsp; B.Eng. from School of Electronics and Information, Northwestern Polytechnical University, Xi’an, China.
 
@@ -48,6 +48,35 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + Jingchun Zhou, Rui Zhou, Zongxin He, **Cong Zhang**, Qiuping Jiang, Weishi Zhang, and Ferdous Sohel, “Hierarchical Wavelet Decomposition Network for Water-related Optical Image Enhancement,” IEEE Journal of Oceanic Engineering (IEEE J-OE), 2024.
   + Jun Xiao, Qian Ye, Tianshan Liu, **Cong Zhang**, and Kin-Man Lam, “Deep Progressive Feature Aggregation Network for Multi-frame High Dynamic Range Imaging,” Neurocomputing, vol. 594, pp. 127804, 2024.
 
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 💻 Academic Activities
+- **Journal Reviewer**
+  + IEEE Transactions on Image Processing (IEEE T-IP)
+  + IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS)
+  + IEEE Transactions on Cybernetics (IEEE T-CYB)
+  + IEEE Transactions on Industrial Informatics (IEEE T-II)
+  + IEEE Transactions on Industrial Electronics (IEEE T-IE)
+  + IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)
+  + IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)
+  + IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE T-ETCI)
+  + IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
+  + IEEE Intelligent Systems (IEEE IS)
+  + IEEE Sensors Journal
+  + Computer Vision and Image Understanding (CVIU)
+  + Neural Networks (NN),
+  + Neurocomputing
+	+ Remote Sensing
+- **Conference Reviewer**
+  + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  + AAAI Conference on Artificial Intelligence (AAAI)
+	+ International Joint Conference on Artificial Intelligence (IJCAI)
+	+ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+  + IEEE International Conference on Image Processing (ICIP)
+	+ IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
+    
 # 🎖 Honors and Awards
 - National Scholarship (Top 1%), *2018*
 - Outstanding Master Thesis Award (Top 1%), *2021*
@@ -56,10 +85,3 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 - Outstanding Students with the First Prize Scholarships, *2015-2020*
 - Inspur Scholarship, *2017*
 - National Encouragement Scholarship, *2015-2016*
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

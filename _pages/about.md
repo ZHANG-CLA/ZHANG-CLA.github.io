@@ -82,6 +82,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)
   + IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)
   + IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE T-ETCI)
+  + IEEE Transactions on Consumer Electronics (IEEE T-CE)
   + IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
   + IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
   + IEEE Intelligent Systems (IEEE IS)

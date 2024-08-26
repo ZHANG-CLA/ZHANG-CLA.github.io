@@ -17,38 +17,60 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Cong Zhang is currently a PostDoc in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University (香港理工大學). His research interests include remote sensing scene understanding, computer vision, image processing, and intelligent transportation.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Cong Zhang obtained his PhD from Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University in 2024, supervised by [Prof. Kin-Man Kenneth LAM](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ). He received MEng in Computer Science and BEng in Communication Engineering Electronic from Northwestern Polytechnical University (西北工業大學) in 2021 and 2018, respectively, supervised by [Prof. Qi WANG](https://crabwq.github.io/) and [Prof. Xuelong LI](https://iopen.nwpu.edu.cn/info/1015/1172.htm).
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.08 - 2024.08* &ensp; P.hD. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University. 
+- *2018.08 - 2021.04* &ensp; M.Eng. from School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnical University, Xi’an, China.
+- *2014.09 - 2018.07* &ensp; B.Eng. from School of Electronics and Information, Northwestern Polytechnical University, Xi’an, China.
+
+
+<!--
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+-->
+
+# 📝 Publications 
+- **Please refer to [Google Scholar](https://scholar.google.com.hk/citations?user=hHUH1VAAAAAJ) for the full publication list**
+- **Selected Journal Papers**
+  + **Cong Zhang**, Kin-Man Lam, Tianshan Liu, Yui-Lam Chan, and Qi Wang, “Structured Adversarial Self-Supervised Learning for Robust Object Detection in Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 62, 2024.
+  + **Cong Zhang**, Jingran Su, Yakun Ju, Kin-Man Lam, and Qi Wang, “Efficient Inductive Vision Transformer for Oriented Object Detection in Remote Sensing Imagery,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 61, 2023, **ESI Highly Cited Paper**.
+  + **Cong Zhang**, Kin-Man Lam, and Qi Wang, “CoF-Net: A Progressive Coarse-to-Fine Framework for Object Detection in Remote-Sensing Imagery,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 61, 2023, **ESI Highly Cited Paper**.
+  + **Cong Zhang**, Tianshan Liu, Jun Xiao, Kin-Man Lam, and Qi Wang, “Boosting Object Detectors via Strong-Classification Weak-Localization Pretraining in Remote Sensing Imagery,” IEEE Transactions on on Instrumentation and Measurement (IEEE T-IM), vol. 72, 2023.
+  + **Cong Zhang**, Jun Xiao, Cuixin Yang, Jingchun Zhou, Kin-Man Lam, and Qi Wang, “Integrally Mixing Pyramid Representations for Anchor-Free Object Detection in Aerial Imagery,” IEEE Geoscience and Remote Sensing Letters (IEEE GRSL), vol. 21, 2024.
+  + **Cong Zhang**, Qi Wang, and Xuelong Li, “V-LPDR: Towards a Unied Framework for License Plate Detection, Tracking, and Recognition in Real-World Traffic Videos,” Neurocomputing, vol. 449, pp. 189-206, 2021.
+  + Jinhao Shen, **Cong Zhang**, Mingwei Zhang, Qiang Li, and Qi Wang, “Learning Remote Sensing Aleatoric Uncertainty for Semi-Supervised Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 62, 2024.
+  + Jinhao Shen, **Cong Zhang**, Yuan Yuan, and Qi Wang, “Enhancing Prospective Consistency for Semi-Supervised Object Detection in Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 61, 2023.
+  + Tianshan Liu, **Cong Zhang**, Kin-Man Lam, and Jun Kong, “Decouple and Resolve: Transformer-Based Models for Online Anomaly Detection From Weakly Labeled Videos,” IEEE Transactions on Information Forensics and Security (IEEE T-IFS), vol. 18, pp. 15-28, 2023.
+  + Qi Wang, Xiaocheng Lu, **Cong Zhang**, Yuan Yuan, and Xuelong Li, “LSV-LP: Large-Scale Video-Based License Plate Detection and Recognition,” IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), vol. 45, no. 1, pp. 752-767, 2023.
+  + Yakun Ju, Muwei Jian, Cong Wang, **Cong Zhang**, Junyu Dong, and Kin-Man Lam, “Estimating High-resolution Surface Normals via Lowresolution Photometric Stereo Images,” IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT), vol. 34, no. 4, pp. 2512-2524, 2024, **ESI Highly Cited Paper**.
+  + Jingchun Zhou, Rui Zhou, Zongxin He, **Cong Zhang**, Qiuping Jiang, Weishi Zhang, and Ferdous Sohel, “Hierarchical Wavelet Decomposition Network for Water-related Optical Image Enhancement,” IEEE Journal of Oceanic Engineering (IEEE J-OE), 2024.
+  + Jun Xiao, Qian Ye, Tianshan Liu, **Cong Zhang**, and Kin-Man Lam, “Deep Progressive Feature Aggregation Network for Multi-frame High Dynamic Range Imaging,” Neurocomputing, vol. 594, pp. 127804, 2024.
+- **Selected Conference Papers**
+  + Zihang Lyu, Jun Xiao, **Cong Zhang**, and Kin-Man Lam, “AI-Generated Image Detection with Wasserstein Distance Compression and Dynamic Aggregation,” in Proc. IEEE International Conference on Image Processing (ICIP), 2025, Oral.
+  + Yun Li, Hao Xie, Jun Xiao, **Cong Zhang**, Tianshan Liu, and Kin-Man Lam, “Hierarchical Vertex-wise Intensification Graph Convolution for Skeleton-based Activity Recognition,” in Proc. IEEE International Conference on Image Processing (ICIP), 2025, Poster.
+  + Jun Xiao, Zihang Lyu, **Cong Zhang**, Yakun Ju, Changjian Shui, and Kin-Man Lam, “Towards Progressive Multi-Frequency Representation for Image Warping,” in Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+  + **Cong Zhang**, Yakun Ju, Jun Xiao, Yuting Yang, and Kin-Man Lam, “Aligning Localization and Classification for Anchor-Free Object Detection in Aerial Imagery,” in Proc. International Workshop on Advanced Image Technology (IWAIT), vol. 13164, pp. 284-289, 2024, Oral.
+  + **Cong Zhang**, Tianshan Liu, Yakun Ju, and Kin-Man Lam, “Pyramid Masked Image Modeling for Transformer-Based Aerial Object Detection,” in Proc. IEEE International Conference on Image Processing (ICIP), pp. 1675-1679, 2023, Oral.
+  + Yakun Ju, Kin-Man Lam, Jun Xiao, **Cong Zhang**, Cuixin Yang, and Junyu Dong, “Efficient Feature Fusion for Learning-based Photometric Stereo,” in Proc. IEEE International Conference on Acoustic, Speech and Signal Processing (ICASSP), 2023, Poster.
+  + Yakun Ju, **Cong Zhang**, Songsong Huang, Yuan Rao, and Kin-Man Lam, “Learning Deep Photometric Stereo Network with Reflectance Priors,” in Proc. IEEE International Conference on Multimedia and Expo (ICME), pp. 2027-2032, 2023, Poster.
+  + **Cong Zhang**, Tianshan Liu, and Kin-Man Lam, “Angle Tokenization Guided Multi-Scale Vision Transformer for Oriented Object Detection in Remote Sensing Imagery,” in Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 3063-3066, 2022, Oral.
+  + **Cong Zhang**, Qi Wang, and Xuelong Li, “IQ-STAN: Image Quality Guided Spatio-Temporal Attention Network for License Plate Recognition,” in Proc. IEEE International Conference on Acoustic, Speech and Signal Processing (ICASSP), pp. 2268-2272, 2020, Oral.
+  + **Cong Zhang**, Qi Wang, and Xuelong Li, “EQ-LPR: Efficient Quality-aware License Plate Recognition,” in Proc.
+IEEE International Conference on Image Processing (ICIP), pp. 653-657, 2020, Oral.
+  + **Cong Zhang**, Qi Wang, and Xuelong Li, “A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment,” in Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 10055-10058, 2019, Poster.
+
+# 🎖 Honors and Awards
+- National Scholarship (Top 1%), *2018*
+- Outstanding Master Thesis Award (Top 1%), *2021*
+- Outstanding Postgraduates (Top 5%), *2021*
+- Outstanding Graduates (Top 5%), *2018*
+- Outstanding Students with the First Prize Scholarships, *2015-2020*
+- Inspur Scholarship, *2017*
+- National Encouragement Scholarship, *2015-2016*
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

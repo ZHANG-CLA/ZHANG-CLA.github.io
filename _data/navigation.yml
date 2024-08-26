@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "Educations"
-    url: "# 📖 Educations"
+    url: "#Educations"
 
   - title: "Publications"
-    url: "# 📝 Publications"
+    url: "#Publications"
 
   - title: "Academic Activities"
-    url: "# 💻 Academic Activities"
+    url: "#Academic Activities"
 
   - title: "Honors and Awards"
-    url: "🎖 Honors and Awards"
+    url: "Honors and Awards"

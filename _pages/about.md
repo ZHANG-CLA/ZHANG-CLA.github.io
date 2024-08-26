@@ -60,6 +60,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + **Cong Zhang**, Qi Wang, and Xuelong Li, “IQ-STAN: Image Quality Guided Spatio-Temporal Attention Network for License Plate Recognition,” in Proc. IEEE International Conference on Acoustic, Speech and Signal Processing (ICASSP), pp. 2268-2272, 2020, Oral.
   + **Cong Zhang**, Qi Wang, and Xuelong Li, “EQ-LPR: Efficient Quality-aware License Plate Recognition,” in Proc. IEEE International Conference on Image Processing (ICIP), pp. 653-657, 2020, Oral.
   + **Cong Zhang**, Qi Wang, and Xuelong Li, “A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment,” in Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 10055-10058, 2019, Poster.
+
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

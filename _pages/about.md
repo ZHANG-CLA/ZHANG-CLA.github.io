@@ -55,11 +55,11 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + **Cong Zhang**, Yakun Ju, Jun Xiao, Yuting Yang, and Kin-Man Lam, “Aligning Localization and Classification for Anchor-Free Object Detection in Aerial Imagery,” in Proc. International Workshop on Advanced Image Technology, vol. 13164, pp. 284-289, 2024.
   + **Cong Zhang**, Tianshan Liu, Yakun Ju, and Kin-Man Lam, “Pyramid Masked Image Modeling for Transformer-Based Aerial Object Detection,” in Proc. IEEE International Conference on Image Processing, pp. 1675-1679, 2023.
   + Yakun Ju, Kin-Man Lam, Jun Xiao, **Cong Zhang**, Cuixin Yang, and Junyu Dong, “Efficient Feature Fusion for Learning-based Photometric Stereo,” in Proc. IEEE International Conference on Acoustic, Speech and Signal Processing, 2023.
-  + Yakun Ju, **Cong Zhang**, Songsong Huang, Yuan Rao, and Kin-Man Lam, “Learning Deep Photometric Stereo Network with Reflectance Priors,” in Proc. IEEE International Conference on Multimedia and Expo (ICME), pp. 2027-2032, 2023, Poster.
-  + **Cong Zhang**, Tianshan Liu, and Kin-Man Lam, “Angle Tokenization Guided Multi-Scale Vision Transformer for Oriented Object Detection in Remote Sensing Imagery,” in Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 3063-3066, 2022, Oral.
-  + **Cong Zhang**, Qi Wang, and Xuelong Li, “IQ-STAN: Image Quality Guided Spatio-Temporal Attention Network for License Plate Recognition,” in Proc. IEEE International Conference on Acoustic, Speech and Signal Processing (ICASSP), pp. 2268-2272, 2020, Oral.
-  + **Cong Zhang**, Qi Wang, and Xuelong Li, “EQ-LPR: Efficient Quality-aware License Plate Recognition,” in Proc. IEEE International Conference on Image Processing (ICIP), pp. 653-657, 2020, Oral.
-  + **Cong Zhang**, Qi Wang, and Xuelong Li, “A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment,” in Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 10055-10058, 2019, Poster.
+  + Yakun Ju, **Cong Zhang**, Songsong Huang, Yuan Rao, and Kin-Man Lam, “Learning Deep Photometric Stereo Network with Reflectance Priors,” in Proc. IEEE International Conference on Multimedia and Expo (ICME), pp. 2027-2032, 2023.
+  + **Cong Zhang**, Tianshan Liu, and Kin-Man Lam, “Angle Tokenization Guided Multi-Scale Vision Transformer for Oriented Object Detection in Remote Sensing Imagery,” in Proc. IEEE International Geoscience and Remote Sensing Symposium, pp. 3063-3066, 2022.
+  + **Cong Zhang**, Qi Wang, and Xuelong Li, “IQ-STAN: Image Quality Guided Spatio-Temporal Attention Network for License Plate Recognition,” in Proc. IEEE International Conference on Acoustic, Speech and Signal Processing, pp. 2268-2272, 2020.
+  + **Cong Zhang**, Qi Wang, and Xuelong Li, “EQ-LPR: Efficient Quality-aware License Plate Recognition,” in Proc. IEEE International Conference on Image Processing (ICIP), pp. 653-657, 2020.
+  + **Cong Zhang**, Qi Wang, and Xuelong Li, “A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment,” in Proc. IEEE International Geoscience and Remote Sensing Symposium, pp. 10055-10058, 2019.
 
 <!--
 # 💬 Invited Talks

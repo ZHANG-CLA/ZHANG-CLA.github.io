@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='AboutMe'></span>
 
 Cong Zhang is currently a PostDoc in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University (香港理工大學). His research interests include remote sensing scene understanding, computer vision, image processing, and intelligent transportation.
 
@@ -27,6 +27,8 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 -->
+
+<span class='anchor' id='Educations'></span>
 
 # 📖 Educations
 - *2021.08 - 2024.07* &nbsp; Ph.D. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University, Hong Kong. 

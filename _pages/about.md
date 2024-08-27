@@ -23,6 +23,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 **Emails:** cong-clarence.zhang@connect.polyu.hk; nwpuzhangcong@gmail.com
 
 <!--
+<span class='anchor' id='News'></span>
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 -->
@@ -65,11 +66,13 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + **Cong Zhang**, Qi Wang, and Xuelong Li, “A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment,” in Proc. IEEE International Geoscience and Remote Sensing Symposium, pp. 10055-10058, 2019.
 
 <!--
+<span class='anchor' id='InvitedTalks'></span>
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
+<span class='anchor' id='AcademicActivities'></span>
 # 💻 Academic Activities
 - **Regular Journal Reviewer**
   + IEEE Transactions on Image Processing (IEEE T-IP)
@@ -98,7 +101,8 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
   + IEEE International Conference on Image Processing (ICIP)
   + IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
-    
+
+<span class='anchor' id='HonorsandAwards'></span>
 # 🎖 Honors and Awards
 - National Scholarship (Top 1%), *2018*
 - Outstanding Master Thesis Award (Top 1%), *2021*

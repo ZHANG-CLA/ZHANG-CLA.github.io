@@ -70,7 +70,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 -->
 
 # 💻 Academic Activities
-- **Journal Reviewer**
+- **Regular Journal Reviewer**
   + IEEE Transactions on Image Processing (IEEE T-IP)
   + IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS)
   + IEEE Transactions on Cybernetics (IEEE T-CYB)

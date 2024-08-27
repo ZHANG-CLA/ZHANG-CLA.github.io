@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='AboutMe'></span>
-
 Cong Zhang is currently a PostDoc in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University (香港理工大學). His research interests include remote sensing scene understanding, computer vision, image processing, and intelligent transportation.
 
 Cong Zhang obtained his PhD from Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University in 2024, supervised by [Prof. Kin-Man Kenneth LAM](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ). He received MEng in Computer Science and BEng in Communication Engineering Electronic from Northwestern Polytechnical University (西北工業大學) in 2021 and 2018, respectively, supervised by [Prof. Qi WANG (王琦)](https://crabwq.github.io/) and [Prof. Xuelong LI (李学龙)](https://iopen.nwpu.edu.cn/info/1015/1172.htm).
@@ -29,12 +28,12 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 -->
 
 <span class='anchor' id='Educations'></span>
-
 # 📖 Educations
 - *2021.08 - 2024.07* &nbsp; Ph.D. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University, Hong Kong. 
 - *2018.08 - 2021.04* &nbsp; M.Eng. in Computer Science and Technology from School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnical University, Xi’an, China.
 - *2014.08 - 2018.07* &nbsp; B.Eng. in Communication Engineering from School of Electronics and Information, Northwestern Polytechnical University, Xi’an, China.
 
+<span class='anchor' id='Publications'></span>
 # 📝 Publications 
 - **Full Publication List: [Google Scholar](https://scholar.google.com.hk/citations?user=hHUH1VAAAAAJ)**
 - **Selected Journal Papers**

@@ -79,7 +79,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + IEEE Transactions on Image Processing (IEEE T-IP)
   + IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS)
   + IEEE Transactions on Cybernetics (IEEE T-CYB)
-  + IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE T-SMCS)
+  + IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE T-SMCA)
   + IEEE Transactions on Multimedia (IEEE T-MM)
   + IEEE Transactions on Industrial Informatics (IEEE T-II)
   + IEEE Transactions on Industrial Electronics (IEEE T-IE)

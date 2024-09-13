@@ -75,6 +75,8 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 
 <span class='anchor' id='AcademicActivities'></span>
 # 💻 Academic Activities
+- **Guest Editor**
+  + Remote Sensing, Special Issue "3D Scene Reconstruction, Modeling and Analysis Using Remote Sensing"
 - **Regular Journal Reviewer**
   + IEEE Transactions on Image Processing (IEEE T-IP)
   + IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS)

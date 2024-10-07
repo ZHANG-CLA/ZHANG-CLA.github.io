@@ -113,6 +113,8 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 - Outstanding Postgraduates (Top 5%), *2021*
 - Outstanding Graduates (Top 5%), *2018*
 - Outstanding Students with the First Prize Scholarships, *2015-2020*
+- Aviation Manufacturing Scholarship, 2020
+- Social Activity Scholarship, 2020
 - Inspur Scholarship, *2017*
 - National Encouragement Scholarship, *2015-2016*
 

@@ -110,13 +110,13 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 # 🎖 Honors and Awards
 - National Scholarship (Top 1%), *2018*
 - Outstanding Master Thesis Award (Top 1%), *2021*
-- Outstanding Postgraduates (Top 5%), *2021*
-- Outstanding Graduates (Top 5%), *2018*
-- Outstanding Students with the First Prize Scholarships, *2015-2020*
+- Outstanding Master Graduates of NWPU (Top 5%), *2021*
+- Outstanding Graduates of NWPU (Top 5%), *2018*
+- Outstanding Undergraduate/Postgraduate Student with the First Prize Scholarships of NWPU, *2015-2020*
 - Aviation Manufacturing Scholarship, 2020
 - Social Activity Scholarship, 2020
 - Inspur Scholarship, *2017*
-- National Encouragement Scholarship, *2015-2016*
+- National Inspirational Scholarship, *2015-2016*
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=51iwi0d0kpn&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=comic_sans_ms&amp;l=0" async="async"></script>

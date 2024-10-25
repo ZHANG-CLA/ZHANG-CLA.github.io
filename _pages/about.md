@@ -21,7 +21,7 @@ Cong Zhang (张聪) is currently a Postdoctoral Fellow in the Department of Elec
 
 Cong Zhang obtained his PhD from Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University in 2024, supervised by [Prof. Kin-Man Kenneth Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ). He received MEng in Computer Science and BEng in Communication Engineering from Northwestern Polytechnical University (西北工业大学) in 2021 and 2018, respectively, supervised by [Prof. Qi Wang (王琦)](https://crabwq.github.io/) and [Prof. Xuelong Li (李学龙)](https://iopen.nwpu.edu.cn/info/1015/1172.htm).
 
-**Emails:** cong-clarence.zhang@connect.polyu.hk; nwpuzhangcong@gmail.com
+**Emails:** cong-clarence.zhang@connect.polyu.hk; nwpuzhangcong@gmail.com; polyuzhangcong@gmail.com
 
 <!--
 <span class='anchor' id='News'></span>

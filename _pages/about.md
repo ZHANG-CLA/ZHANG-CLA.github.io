@@ -118,8 +118,10 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 - Inspur Scholarship, *2017*
 - National Inspirational Scholarship, *2015-2016*
 
-<div style="height: 250px;width: 250px;margin-left: 40px;">
+<div style="height:200px; width:200px; margin-right:auto; margin-left:auto;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=LZTAZ7ZqUrt1WFc6wiobayOzKsA7VvvWdZoO95pIB_Q"></script>
 </div>
 
-;<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.jsi=51iwi0d0kpn&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=comic_sans_ms&amp;l=0" async="async"></script>
+<!--
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.jsi=51iwi0d0kpn&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=comic_sans_ms&amp;l=0" async="async"></script>
+-->

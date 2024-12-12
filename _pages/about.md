@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='AboutMe'></span>
 
-Cong Zhang (张聪) is currently a Postdoctoral Fellow at the Institute of Space and Earth Information Science (ISEIS), The Chinese University of Hong Kong (香港中文大学), advised by [Prof. Mei-Po KWAN (关美宝)](http://www.meipokwan.org/). Prior to this, he served as a Postdoctoral Fellow in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University (香港理工大学). His research interests include remote sensing, computer vision, image processing, and intelligent transportation.
+Cong Zhang (张聪) is currently a Postdoctoral Fellow at the Institute of Space and Earth Information Science (ISEIS), The Chinese University of Hong Kong (香港中文大学), advised by [Prof. Mei-Po Kwan (关美宝)](http://www.meipokwan.org/). Prior to this, he served as a Postdoctoral Fellow in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University (香港理工大学). His research interests include remote sensing, computer vision, image processing, and intelligent transportation.
 
 Cong Zhang obtained his PhD from Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University in 2024, supervised by [Prof. Kin-Man Kenneth Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ). He received MEng in Computer Science and BEng in Communication Engineering from Northwestern Polytechnical University (西北工业大学) in 2021 and 2018, respectively, supervised by [Prof. Qi Wang (王琦)](https://iopen.nwpu.edu.cn/info/1015/1286.htm) and [Prof. Xuelong Li (李学龙)](http://xuelongli.cn/).
 
@@ -50,6 +50,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + Tianshan Liu, **Cong Zhang**, Kin-Man Lam, and Jun Kong, “Decouple and Resolve: Transformer-Based Models for Online Anomaly Detection From Weakly Labeled Videos,” IEEE Transactions on Information Forensics and Security (IEEE T-IFS), vol. 18, pp. 15-28, 2023.
   + Qi Wang, Xiaocheng Lu, **Cong Zhang**, Yuan Yuan, and Xuelong Li, “LSV-LP: Large-Scale Video-Based License Plate Detection and Recognition,” IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), vol. 45, no. 1, pp. 752-767, 2023.
   + Yakun Ju, Muwei Jian, Cong Wang, **Cong Zhang**, Junyu Dong, and Kin-Man Lam, “Estimating High-resolution Surface Normals via Lowresolution Photometric Stereo Images,” IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT), vol. 34, no. 4, pp. 2512-2524, 2024, **ESI Highly Cited Paper**.
+  + Yakun Ju, Jun Xiao, Cong Zhang, Hao Xie, Anwei Luo, Huiyu Zhou, Junyu Dong, and Alex Kot, “Towards Marine Snow Removal with Fourier Information,” Information Fusion, 2024.
   + Jingchun Zhou, Rui Zhou, Zongxin He, **Cong Zhang**, Qiuping Jiang, Weishi Zhang, and Ferdous Sohel, “Hierarchical Wavelet Decomposition Network for Water-related Optical Image Enhancement,” IEEE Journal of Oceanic Engineering (IEEE J-OE), 2024.
   + Jun Xiao, Qian Ye, Tianshan Liu, **Cong Zhang**, and Kin-Man Lam, “Deep Progressive Feature Aggregation Network for Multi-frame High Dynamic Range Imaging,” Neurocomputing, vol. 594, pp. 127804, 2024.
     
@@ -112,7 +113,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 - Outstanding Master Thesis Award (Top 1%), *2021*
 - Outstanding Master Graduates of NWPU (Top 5%), *2021*
 - Outstanding Graduates of NWPU (Top 5%), *2018*
-- Outstanding Undergraduate/Postgraduate Student with the First Prize Scholarships of NWPU, *2015-2020*
+- Outstanding Undergraduate/Postgraduate Student with the First Prize Scholarship of NWPU, *2015-2020*
 - Aviation Manufacturing Scholarship, 2020
 - Social Activity Scholarship, 2020
 - Inspur Scholarship, *2017*

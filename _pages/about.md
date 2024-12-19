@@ -19,7 +19,7 @@ redirect_from:
 
 Cong Zhang (张聪) is currently a Postdoctoral Fellow at the Institute of Space and Earth Information Science (ISEIS), The Chinese University of Hong Kong (香港中文大学), advised by [Prof. Mei-Po Kwan (关美宝)](http://www.meipokwan.org/). Prior to this, he served as a Postdoctoral Fellow in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University (香港理工大学). His research interests include remote sensing, computer vision, image processing, and intelligent transportation.
 
-Cong Zhang obtained his PhD from Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University in 2024, supervised by [Prof. Kin-Man Kenneth Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ). He received MEng in Computer Science and BEng in Communication Engineering from Northwestern Polytechnical University (西北工业大学) in 2021 and 2018, respectively, supervised by [Prof. Qi Wang (王琦)](https://iopen.nwpu.edu.cn/info/1015/1286.htm) and [Prof. Xuelong Li (李学龙)](http://xuelongli.cn/).
+Cong Zhang obtained his PhD from Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University in 2024, supervised by [Prof. Kin-Man Kenneth Lam (林健文)](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ). He received MEng in Computer Science and BEng in Communication Engineering from Northwestern Polytechnical University (西北工业大学) in 2021 and 2018, respectively, supervised by [Prof. Qi Wang (王琦)](https://iopen.nwpu.edu.cn/info/1015/1286.htm) and [Prof. Xuelong Li (李学龙)](http://xuelongli.cn/).
 
 **Emails:** cong-clarence.zhang@connect.polyu.hk; nwpuzhangcong@gmail.com; polyuzhangcong@gmail.com
 

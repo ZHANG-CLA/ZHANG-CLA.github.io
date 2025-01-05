@@ -100,7 +100,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + Computer Vision and Image Understanding (CVIU)
   + Neural Networks (NN)
   + $\cdots$ $\cdots$
-- **Conference Reviewer**
+- **Conference PC Member/Reviewer**
   + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   + AAAI Conference on Artificial Intelligence (AAAI)
   + International Joint Conference on Artificial Intelligence (IJCAI)

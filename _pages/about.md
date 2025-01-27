@@ -79,9 +79,8 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 # 💻 Academic Activities
 - **Editorial Board Member/Guest Editor**
   + Remote Sensing, Guest Editor
-    + [Special Issue: 3D Scene Reconstruction, Modeling and Analysis Using Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/407RO3SU16)
-    + [Special Issue: Remote Sensing Techniques for 3D Reconstruction and Multimodal Structural Analysis](https://www.mdpi.com/journal/remotesensing/special_issues/I4MHR44802)
-- GIScience, Editorial
+    * [Special Issue: 3D Scene Reconstruction, Modeling and Analysis Using Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/407RO3SU16)
+    * [Special Issue: Remote Sensing Techniques for 3D Reconstruction and Multimodal Structural Analysis](https://www.mdpi.com/journal/remotesensing/special_issues/I4MHR44802)
   + GIScience, Editorial Board
 - **Regular Journal Reviewer**
   + IEEE Transactions on Cybernetics (IEEE T-CYB)

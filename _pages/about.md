@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='AboutMe'></span>
 
-Cong Zhang (张聪) is currently a Postdoctoral Fellow at the Institute of Space and Earth Information Science (ISEIS), The Chinese University of Hong Kong (香港中文大学), advised by [Prof. Mei-Po Kwan (关美宝)](http://www.meipokwan.org/). Prior to this, he served as a Postdoctoral Fellow in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University (香港理工大学). His research interests include unmanned systems, computer vision, and intelligent transportation.
+Cong Zhang (张聪) is currently a Postdoctoral Fellow at the Institute of Space and Earth Information Science (ISEIS), The Chinese University of Hong Kong (香港中文大学), advised by [Prof. Mei-Po Kwan (关美宝)](http://www.meipokwan.org/). Prior to this, he served as a Postdoctoral Fellow in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University (香港理工大学). His research interests include unmanned systems, computer vision and intelligent transportation.
 
 Cong Zhang obtained his PhD from Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University in 2024, supervised by [Prof. Kin-Man Kenneth Lam (林健文)](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ). He received MEng in Computer Science and BEng in Communication Engineering from Northwestern Polytechnical University (西北工业大学) in 2021 and 2018, respectively, supervised by [Prof. Qi Wang (王琦)](https://iopen.nwpu.edu.cn/info/1015/1286.htm) and [Prof. Xuelong Li (李学龙)](http://xuelongli.cn/).
 
@@ -79,23 +79,23 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 # 💻 Academic Activities
 - **Editorial Board Member/Guest Editor**
   + Remote Sensing, Guest Editor
-    + [3D Scene Reconstruction, Modeling and Analysis Using Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/407RO3SU16))
-    + [Remote Sensing Techniques for 3D Reconstruction and Multimodal Structural Analysis](https://www.mdpi.com/journal/remotesensing/special_issues/I4MHR44802)
+    + [Special Issue: 3D Scene Reconstruction, Modeling and Analysis Using Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/407RO3SU16)
+    + [Special Issue: Remote Sensing Techniques for 3D Reconstruction and Multimodal Structural Analysis](https://www.mdpi.com/journal/remotesensing/special_issues/I4MHR44802)
 - GIScience, Editorial
   + GIScience, Editorial Board
 - **Regular Journal Reviewer**
-  + IEEE Transactions on Image Processing (IEEE T-IP)
-  + IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS)
   + IEEE Transactions on Cybernetics (IEEE T-CYB)
   + IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE T-SMCA)
-  + IEEE Transactions on Multimedia (IEEE T-MM)
+  + IEEE Transactions on  Instrumentation and Measurement (IEEE T-IM)
   + IEEE Transactions on Industrial Informatics (IEEE T-II)
   + IEEE Transactions on Industrial Electronics (IEEE T-IE)
-  + IEEE Transactions on  Instrumentation and Measurement (IEEE T-IM)
-  + IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)
+  + IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS)
   + IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)
-  + IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE T-ETCI)
+  + IEEE Transactions on Image Processing (IEEE T-IP)
+  + IEEE Transactions on Multimedia (IEEE T-MM)
+  + IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)
   + IEEE Transactions on Consumer Electronics (IEEE T-CE)
+  + IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE T-ETCI)
   + IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
   + IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
   + IEEE Intelligent Systems (IEEE IS)
@@ -104,15 +104,15 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   + Neural Networks (NN)
   + $\cdots$ $\cdots$
 - **Conference PC/TPC Member/Reviewer**
-  + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-  + AAAI Conference on Artificial Intelligence (AAAI)
-  + International Joint Conference on Artificial Intelligence (IJCAI)
-  + IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
-  + IEEE International Conference on Image Processing (ICIP)
   + IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
   + IEEE International Conference on Multimedia & Expo (ICME)
+  + IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
   + IEEE International Joint Conference on Neural Networks (IJCNN)
-
+  + IEEE International Conference on Image Processing (ICIP)
+  + International Joint Conference on Artificial Intelligence (IJCAI)
+  + AAAI Conference on Artificial Intelligence (AAAI)
+  + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  
 <span class='anchor' id='HonorsandAwards'></span>
 # 🎖 Honors and Awards
 - National Scholarship (Top 1%), *2018*

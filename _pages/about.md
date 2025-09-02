@@ -79,6 +79,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 # 💻 Academic Activities
 - **Editorial Board Member/Guest Editor**
   + IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Guest Editor
+    **[Special Issue: Noise-Aware Remote Sensing: Modeling, Mitigation and Utilization](https://www.grss-ieee.org/wp-content/uploads/2025/08/JSTARS_CfP_Template-Noise-Aware-Remote-Sensing-Modeling-Mitigation-and-Utilization.-updated-version.pdf)
   + Remote Sensing, Guest Editor
   + Frontiers in Remote Sensing, Guest Editor
   + GIScience, Editorial Board

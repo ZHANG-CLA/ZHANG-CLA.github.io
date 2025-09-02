@@ -39,7 +39,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 # 📝 Publications 
 - **Full Publication List: [Google Scholar](https://scholar.google.com.hk/citations?user=hHUH1VAAAAAJ)**
 - **Selected Journal Papers**
-  + **Cong Zhang**, Kin-Man Lam, Tianshan Liu, Yui-Lam Chan, and Qi Wang, “Structured Adversarial Self-Supervised Learning for Robust Object Detection in Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 62, 2024.
+  + **Cong Zhang**, Kin-Man Lam, Tianshan Liu, Yui-Lam Chan, and Qi Wang, “Structured Adversarial Self-Supervised Learning for Robust Object Detection in Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 62, 2024, **ESI Highly Cited Paper**.
   + **Cong Zhang**, Jingran Su, Yakun Ju, Kin-Man Lam, and Qi Wang, “Efficient Inductive Vision Transformer for Oriented Object Detection in Remote Sensing Imagery,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 61, 2023, **ESI Highly Cited Paper**.
   + **Cong Zhang**, Kin-Man Lam, and Qi Wang, “CoF-Net: A Progressive Coarse-to-Fine Framework for Object Detection in Remote-Sensing Imagery,” IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS), vol. 61, 2023, **ESI Highly Cited Paper**.
   + **Cong Zhang**, Tianshan Liu, Jun Xiao, Kin-Man Lam, and Qi Wang, “Boosting Object Detectors via Strong-Classification Weak-Localization Pretraining in Remote Sensing Imagery,” IEEE Transactions on on Instrumentation and Measurement (IEEE T-IM), vol. 72, 2023.

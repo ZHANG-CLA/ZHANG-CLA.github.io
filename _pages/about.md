@@ -79,7 +79,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 # 💻 Academic Activities
 - **Editorial Board Member/Guest Editor**
   + IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Guest Editor
-    *[Special Issue: Noise-Aware Remote Sensing: Modeling, Mitigation and Utilization](https://www.grss-ieee.org/wp-content/uploads/2025/08/JSTARS_CfP_Template-Noise-Aware-Remote-Sensing-Modeling-Mitigation-and-Utilization.-updated-version.pdf)
+    * [Special Issue: Noise-Aware Remote Sensing: Modeling, Mitigation and Utilization](https://www.grss-ieee.org/wp-content/uploads/2025/08/JSTARS_CfP_Template-Noise-Aware-Remote-Sensing-Modeling-Mitigation-and-Utilization.-updated-version.pdf)
   + Remote Sensing, Guest Editor
   + Frontiers in Remote Sensing, Guest Editor
   + GIScience, Editorial Board
@@ -115,6 +115,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
   
 <span class='anchor' id='HonorsandAwards'></span>
 # 🎖 Honors and Awards
+- CVPR NITRE Challenge 3rd Place Award, 2025
 - National Scholarship (Top 1%), *2018*
 - Outstanding Master Thesis Award (Top 1%), *2021*
 - Outstanding Master Graduates of NWPU (Top 5%), *2021*

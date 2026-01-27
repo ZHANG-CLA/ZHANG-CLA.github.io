@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dr. ZHANG Cong"
   avatar           : "images/ZHANGCong.JPG"
-  bio              : "<strong>Professor at SDU<strong> <br />&#10003 Embodied Intelligence <br />&#10003 Computer Vision <br />&#10003 Unmanned Systems<br /> &#10003 Remote Sensing"
+  bio              : "<strong>Professor at SDU <br />&#10003 Embodied Intelligence <br />&#10003 Computer Vision <br />&#10003 Unmanned Systems<br /> &#10003 Remote Sensing"
   location         : "Jinan, Shandong"
   employer         :
   pubmed           : 

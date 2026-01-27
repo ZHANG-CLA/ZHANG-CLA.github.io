@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='AboutMe'></span>
 
-Cong Zhang (张聪) is currently a Postdoctoral Fellow in the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University (香港理工大学). Prior to this, he served as a Postdoctoral Fellow at the Institute of Space and Earth Information Science, The Chinese University of Hong Kong (香港中文大学). His research interests include unmanned systems, computer vision, intelligent transportation, and remote sensing.
+Cong Zhang (张聪) is currently a full Professor with the School of Control Science and Engineering, Shandong University (山东大学). Prior to this, he served as a Postdoctoral Fellow in The Hong Kong Polytechnic University (香港理工大学) and The Chinese University of Hong Kong (香港中文大学). His research interests include embodied intelligence, unmanned systems, computer vision, and remote sensing.
 
-Cong Zhang obtained his PhD from Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University in 2024, supervised by [Prof. Kin-Man Kenneth Lam (林健文)](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ). He received MEng in Computer Science and BEng in Communication Engineering from Northwestern Polytechnical University (西北工业大学) in 2021 and 2018, respectively, supervised by [Prof. Qi Wang (王琦)](https://scholar.google.com.hk/citations?user=GPrkTBsAAAAJ) and [Prof. Xuelong Li (李学龙)](https://scholar.google.com/citations?user=ahUibskAAAAJ).
+Cong Zhang obtained his PhD from Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University, supervised by [Prof. Kin-Man Kenneth Lam (林健文)](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ). He received MEng in Computer Science and BEng in Communication Engineering from Northwestern Polytechnical University (西北工业大学), respectively, supervised by [Prof. Qi Wang (王琦)](https://scholar.google.com.hk/citations?user=GPrkTBsAAAAJ) and [Prof. Xuelong Li (李学龙)](https://scholar.google.com/citations?user=ahUibskAAAAJ).
 
 **Emails:** congzhang@sdu.edu.cn; polyuzhangcong@gmail.com
 
@@ -31,7 +31,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 
 <span class='anchor' id='Educations'></span>
 # 📖 Educations
-- *2021.08 - 2024.08* &nbsp; Ph.D. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University, Hong Kong. 
+- *2021.08 - 2024.09* &nbsp; Ph.D. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University, Hong Kong. 
 - *2018.09 - 2021.04* &nbsp; M.Eng. in Computer Science and Technology from School of Artificial Intelligence, Optics and Electronics, Northwestern Polytechnical University, Xi’an, China.
 - *2014.09 - 2018.06* &nbsp; B.Eng. in Communication Engineering from School of Electronics and Information, Northwestern Polytechnical University, Xi’an, China.
 

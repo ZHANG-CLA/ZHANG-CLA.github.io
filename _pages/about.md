@@ -78,45 +78,49 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 
 <span class='anchor' id='AcademicActivities'></span>
 # 💻 Academic Activities
-- **Editorial Board Member/Guest Editor**
-  + IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Guest Editor
-    * [Special Issue: Noise-Aware Remote Sensing: Modeling, Mitigation and Utilization](https://www.grss-ieee.org/wp-content/uploads/2025/08/JSTARS_CfP_Template-Noise-Aware-Remote-Sensing-Modeling-Mitigation-and-Utilization.-updated-version.pdf)
-  + Remote Sensing, Guest Editor
+- **Associate Editor/Editorial Board Member/Guest Editor**
+  + Frontiers in Imaging, *Associate Editor*
+  + IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, *Guest Editor*
+  + Remote Sensing, *Guest Editor*
   + Frontiers in Remote Sensing, Guest Editor
-  + GIScience, Editorial Board
-- **Regular Journal Reviewer**
-  + IEEE Transactions on Cybernetics (IEEE T-CYB)
-  + IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE T-SMCA)
-  + IEEE Transactions on  Instrumentation and Measurement (IEEE T-IM)
-  + IEEE Transactions on Industrial Informatics (IEEE T-II)
-  + IEEE Transactions on Industrial Electronics (IEEE T-IE)
-  + IEEE Transactions on Geoscience and Remote Sensing (IEEE T-GRS)
-  + IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)
-  + IEEE Transactions on Image Processing (IEEE T-IP)
-  + IEEE Transactions on Multimedia (IEEE T-MM)
-  + IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)
-  + IEEE Transactions on Consumer Electronics (IEEE T-CE)
-  + IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE T-ETCI)
+  + GIScience, *Editorial Board Member*
+- **Special Session/Workshop Organizer**
+  + IEEE International Conference on Multimedia & Expo (ICME), *Special Session Lead Organizer*, 2026
+  + ACM International Conference on Multimedia in Asia (MMAsia), *Workshop Organizer*, 2025  
+- **Journal Regular Reviewer (40+)**
+  + IEEE Transactions on Cybernetics (IEEE TCYB)
+  + IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE TSMCA)
+  + IEEE Transactions on Instrumentation and Measurement (IEEE TIM)
+  + IEEE Transactions on Industrial Informatics (IEEE TII)
+  + IEEE Transactions on Industrial Electronics (IEEE TIE)
+  + IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+  + IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
+  + IEEE Transactions on Image Processing (IEEE TIP)
+  + IEEE Transactions on Multimedia (IEEE TMM)
+  + IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
+  + IEEE Transactions on Consumer Electronics (IEEE TCE)
+  + IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
   + IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
   + IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
-  + IEEE Intelligent Systems (IEEE IS)
   + IEEE Sensors Journal
-  + Computer Vision and Image Understanding (CVIU)
-  + Neural Networks (NN)
   + $\cdots$ $\cdots$
-- **Conference PC/TPC Member/Reviewer**
+- **Conference Area Chair/PC/TPC Member/Reviewer**
+  + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  + International Conference on Learning Representations (ICLR)
+  + AAAI Conference on Artificial Intelligence (AAAI)
+  + International Joint Conference on Artificial Intelligence (IJCAI)
+  + ACM International Conference on Multimedia (ACMMM)
   + IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
   + IEEE International Conference on Multimedia & Expo (ICME)
   + IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
   + IEEE International Joint Conference on Neural Networks (IJCNN)
   + IEEE International Conference on Image Processing (ICIP)
-  + International Joint Conference on Artificial Intelligence (IJCAI)
-  + AAAI Conference on Artificial Intelligence (AAAI)
-  + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+
   
 <span class='anchor' id='HonorsandAwards'></span>
 # 🎖 Honors and Awards
-- CVPR NITRE Challenge 3rd Place Award, 2025
+- CVPR NITRE Challenge 3rd Place Award, *2025*
+- Outstanding Exploration Award in PRCV Competitions, *2025*
 - National Scholarship (Top 1%), *2018*
 - Outstanding Master Thesis Award (Top 1%), *2021*
 - Outstanding Master Graduates of NWPU (Top 5%), *2021*

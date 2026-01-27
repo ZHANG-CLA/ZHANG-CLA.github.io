@@ -32,7 +32,7 @@ Cong Zhang obtained his PhD from Department of Electrical and Electronic Enginee
 <span class='anchor' id='Educations'></span>
 # 📖 Educations
 - *2021.08 - 2024.09* &nbsp; Ph.D. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University, Hong Kong. 
-- *2018.09 - 2021.04* &nbsp; M.Eng. in Computer Science and Technology from School of Artificial Intelligence, Optics and Electronics, Northwestern Polytechnical University, Xi’an, China.
+- *2018.09 - 2021.04* &nbsp; M.Eng. in Computer Science from School of Artificial Intelligence, Optics and Electronics, Northwestern Polytechnical University, Xi’an, China.
 - *2014.09 - 2018.06* &nbsp; B.Eng. in Communication Engineering from School of Electronics and Information, Northwestern Polytechnical University, Xi’an, China.
 
 <span class='anchor' id='Publications'></span>

@@ -14,10 +14,8 @@ $indent-var                 : 0.5em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-
-// $sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
-$sans-serif                 : Times, sans-serif;
-
+$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+// $sans-serif                 : Times, sans-serif;
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
@@ -32,7 +30,7 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
+$global-font-family         : Times, serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 

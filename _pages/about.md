@@ -17,11 +17,14 @@ redirect_from:
 
 <span class='anchor' id='AboutMe'></span>
 
-Cong Zhang (张聪) is currently a full Professor with the School of Control Science and Engineering, Shandong University (山东大学). Prior to this, he served as a Postdoctoral Fellow in The Hong Kong Polytechnic University (香港理工大学) and The Chinese University of Hong Kong (香港中文大学). His research interests include embodied intelligence, unmanned systems, computer vision, and remote sensing.
+Cong Zhang (张聪) is currently a full Professor with the School of Control Science and Engineering, Shandong University (山东大学). Prior to this, he served as a Postdoctoral Fellow in The Hong Kong Polytechnic University (香港理工大学) and The Chinese University of Hong Kong (香港中文大学). His research interests include embodied intelligence, unmanned systems, pattern recognition, computer vision, and remote sensing.
 
 Cong Zhang obtained his PhD from The Hong Kong Polytechnic University, supervised by [Prof. Kin-Man Kenneth Lam (林健文)](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ). He received both the MEng and BEng from Northwestern Polytechnical University (西北工业大学), supervised by [Prof. Qi Wang (王琦)](https://scholar.google.com.hk/citations?user=GPrkTBsAAAAJ) and [Prof. Xuelong Li (李学龙)](https://scholar.google.com/citations?user=ahUibskAAAAJ).
 
 **Emails:** congzhang@sdu.edu.cn; polyuzhangcong@gmail.com
+
+<span class='anchor' id='ChineseBio'></span>
+张聪，山东大学控制科学与工程学院教授、博士生导师，国家级青年人才，“机器智能与系统控制”教育部重点实验室骨干，山东大学杰出中青年学者（第一层次）。2018年毕业于西北工业大学电子信息学院通信工程专业，获工学学士学位；2021年毕业于西北工业大学光电与智能研究院计算机科学与技术专业，获工学硕士学位，师从王琦教授与李学龙教授；2024年毕业于香港理工大学电机及电子工程学系，获哲学博士学位，师从IEEE信号处理协会副主席、工程学院副院长Kin-Man Kenneth Lam教授；2024年-2025年先后于香港理工大学、香港中文大学担任博士后研究员，并于2025年加入山东大学控制科学与工程学院。研究方向主要包括具身智能、无人系统、模式识别、计算机视觉、遥感等，并致力于它们在低空场景中的应用探索。已在TPAMI、TIFS、TGRS、TMM、TCSVT、TIM、CVPR、AAAI等国际权威期刊与会议上发表论文40余篇，其中4篇入选ESI高被引论文。作为项目负责人或技术骨干承担国家自然科学基金、香港智慧交通基金、香港创新及科技基金、香港优配研究金等科研项目多项；现担任6个国际期刊编委以及多个国际会议的专题/研讨会召集人或技术程序委员会成员，并长期担任40余个权威期刊与会议的审稿人。
 
 <!--
 <span class='anchor' id='News'></span>
@@ -31,9 +34,9 @@ Cong Zhang obtained his PhD from The Hong Kong Polytechnic University, supervise
 
 <span class='anchor' id='Educations'></span>
 # 📖 Educations
-- *2021.08 - 2024.09* &nbsp; Ph.D. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University, Hong Kong. 
-- *2018.09 - 2021.04* &nbsp; M.Eng. in Computer Science from School of Artificial Intelligence, Optics and Electronics, Northwestern Polytechnical University, Xi’an, China.
-- *2014.09 - 2018.06* &nbsp; B.Eng. in Communication Engineering from School of Electronics and Information, Northwestern Polytechnical University, Xi’an, China.
+- *2021.08 - 2024.09* &nbsp; Ph.D. from Department of Electrical and Electronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University (香港理工大学), Hong Kong. 
+- *2018.09 - 2021.04* &nbsp; M.Eng. in Computer Science from School of Artificial Intelligence, Optics and Electronics, Northwestern Polytechnical University (西北工业大学), Xi’an, China.
+- *2014.09 - 2018.06* &nbsp; B.Eng. in Communication Engineering from School of Electronics and Information, Northwestern Polytechnical University (西北工业大学), Xi’an, China.
 
 <span class='anchor' id='Publications'></span>
 # 📝 Publications 

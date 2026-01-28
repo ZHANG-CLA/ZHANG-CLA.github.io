@@ -27,7 +27,7 @@ Cong Zhang obtained his PhD from The Hong Kong Polytechnic University, supervise
 ✉️ **Emails:** congzhang@sdu.edu.cn; polyuzhangcong@gmail.com
 
 
-<!-- <span class='anchor' id='News'></span> -->
+<span class='anchor' id='News'></span>
 # 🔥 Openings (招生信息)
 - 📣 📣 <font color=navy>[硕博招生]</font> 现正<font color=red size=4>招收2026级博士研究生、硕士研究生 (<b>尚有名额</b>)</font>，欢迎对具身智能、计算机视觉、低空智能应用等领域感兴趣的同学，通过电邮垂询 (congzhang@sdu.edu.cn) 并附个人简历。
 - 📣 📣 <font color=navy>[长期招聘]</font> 常年<font color=red size=4>招收本科实习生、研究助理及博士后</font> (薪资26-46万/年，详见[招聘公告](https://www.rsrczp.sdu.edu.cn/info/1053/6416.htm))，专业方向涵盖计算机、自动化、机器人、电子信息、机械工程、低空技术等相关领域，欢迎电邮垂询 (congzhang@sdu.edu.cn)。

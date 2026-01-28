@@ -28,8 +28,11 @@ Cong Zhang obtained his PhD from The Hong Kong Polytechnic University, supervise
 
 
 <!-- <span class='anchor' id='News'></span> -->
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+# 🔥 Openings (招生信息)
+- 现正招收2026级博士研究生、硕士研究生 (尚有名额)，欢迎对具身智能、计算机视觉、低空智能应用等领域感兴趣的同学，通过电邮垂询（congzhang@sdu.edu.cn）并附个人简历。
+- [长期招聘] 常年招收本科实习生、博士后及研究助理，专业方向涵盖计算机、自动化、机器人、电子信息、机械工程、低空技术等相关领域，欢迎电邮垂询（congzhang@sdu.edu.cn）。
+- 课题组致力于为学生提供系统、坚实的科研训练，并与多所世界知名高校及研究机构长期保持紧密合作关系，包括香港理工大学、香港中文大学、香港城市大学、新加坡南洋理工大学、新加坡国立大学、英国莱斯特大学、英国华威大学、悉尼科技大学等，学生将有机会与人工智能、机器人等领域的国内外顶尖学者共同探索前沿课题，取得具有国际影响力的高水平研究成果。
+- We are actively looking for self-motivated PhD/Master Students, Undergraduate Students, Postdoctoral Researchers, and Research Assistants to work and have fun together on multiple research topics. Please feel free to drop me an email (congzhang@sdu.edu.cn) with your CV if you are interested.
 
 
 <span class='anchor' id='Educations'></span>

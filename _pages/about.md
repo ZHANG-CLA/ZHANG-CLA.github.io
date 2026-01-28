@@ -24,13 +24,13 @@ Cong Zhang obtained his PhD from The Hong Kong Polytechnic University, supervise
 <span class='anchor' id='ChineseBio'></span>
 张聪，山东大学控制科学与工程学院教授、博士生导师，**国家级青年人才**，机器智能与系统控制教育部重点实验室骨干，山东大学杰出中青年学者。2018年毕业于西北工业大学电子信息学院通信工程专业，获工学学士学位；2021年毕业于西北工业大学光电与智能研究院计算机科学与技术专业，获工学硕士学位，师从王琦教授与李学龙教授；2024年毕业于香港理工大学电机及电子工程学系，获哲学博士学位，师从IEEE信号处理协会副主席、工程学院副院长Kin-Man Kenneth Lam教授；2024年-2025年先后于香港理工大学、香港中文大学担任博士后研究员，并于2025年加入山东大学控制科学与工程学院。研究方向主要包括具身智能、无人系统、模式识别、计算机视觉、遥感等，并致力于它们在低空场景中的应用探索。已在TPAMI、TIFS、TGRS、TMM、TCSVT、TIM、CVPR、AAAI等国际权威期刊与会议上发表论文40余篇，其中4篇入选ESI高被引论文。作为项目负责人或技术骨干承担国家自然科学基金、香港智慧交通基金、香港创新及科技基金、香港优配研究金等科研项目多项；现担任6个国际期刊编委以及多个国际会议的专题/研讨会召集人或技术程序委员会成员，并长期担任40余个权威期刊与会议的审稿人。
 
-📧 **Emails:** congzhang@sdu.edu.cn; polyuzhangcong@gmail.com 📧
+✉️ **Emails:** congzhang@sdu.edu.cn; polyuzhangcong@gmail.com
 
 
 <!-- <span class='anchor' id='News'></span> -->
 # 🔥 Openings (招生信息)
-- 📢 📢 [硕博招生] 现正<font color=red size=3>招收2026级博士研究生、硕士研究生 (**尚有名额**)</font>，欢迎对具身智能、计算机视觉、低空智能应用等领域感兴趣的同学，通过电邮垂询 (congzhang@sdu.edu.cn) 并附个人简历。
-- 📢 📢 [长期招聘] 常年<font color=red>招收本科实习生、研究助理及博士后</font> (薪资26-46万/年，详见[招聘公告](https://www.rsrczp.sdu.edu.cn/info/1053/6416.htm))，专业方向涵盖计算机、自动化、机器人、电子信息、机械工程、低空技术等相关领域，欢迎电邮垂询 (congzhang@sdu.edu.cn)。
+- 📣 📣 [硕博招生] 现正<font color=red size=3>招收2026级博士研究生、硕士研究生 (**尚有名额**)</font>，欢迎对具身智能、计算机视觉、低空智能应用等领域感兴趣的同学，通过电邮垂询 (congzhang@sdu.edu.cn) 并附个人简历。
+- 📣 📣 [长期招聘] 常年<font color=red>招收本科实习生、研究助理及博士后</font> (薪资26-46万/年，详见[招聘公告](https://www.rsrczp.sdu.edu.cn/info/1053/6416.htm))，专业方向涵盖计算机、自动化、机器人、电子信息、机械工程、低空技术等相关领域，欢迎电邮垂询 (congzhang@sdu.edu.cn)。
 - 课题组致力于为学生提供系统、坚实的科研训练，并与多所世界知名高校及研究机构保持长期紧密合作关系，包括香港理工大学、香港中文大学、香港城市大学、新加坡南洋理工大学、新加坡国立大学、英国莱斯特大学、英国华威大学、悉尼科技大学等，学生将有机会与人工智能、机器人等领域的国内外顶尖学者共同探索前沿课题，取得具有国际影响力的高水平研究成果。
 - We are actively looking for self-motivated PhD/Master Students, Undergraduate Students, Postdoctoral Researchers, and Research Assistants to work and have fun together on multiple research topics. Please feel free to drop me an email (congzhang@sdu.edu.cn) with your CV if you are interested.
 

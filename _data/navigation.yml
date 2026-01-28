@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "#AboutMe"
 
+  - title: "Openings"
+    url: "#News"
+
   - title: "Educations"
     url: "#Educations"
 

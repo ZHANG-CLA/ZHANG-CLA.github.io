@@ -8,8 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "ZHANG Cong’s Homepage"
-title_separator          : "-"
-name                     : &name "Dr. ZHANG Cong"
 description              : ""
 repository               : "ZHANG-CLA/zhangcong.github.io"
 google_scholar_stats_use_cdn : true

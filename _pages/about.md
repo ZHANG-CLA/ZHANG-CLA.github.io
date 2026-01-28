@@ -27,7 +27,7 @@ Cong Zhang obtained his PhD from The Hong Kong Polytechnic University, supervise
 **Emails:** congzhang@sdu.edu.cn; polyuzhangcong@gmail.com
 
 
-<span class='anchor' id='News'></span>
+<!-- <span class='anchor' id='News'></span> -->
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 

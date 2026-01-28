@@ -6,8 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "ZHANG Cong"
-description              : "ZHANG Cong"
+locale                   : "en-US"
+title                    : "ZHANG Cong’s Homepage"
+title_separator          : "-"
+name                     : &name "Dr. ZHANG Cong"
+description              : ""
 repository               : "ZHANG-CLA/zhangcong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +28,7 @@ author:
   avatar           : "images/ZHANGCong.JPG"
   bio              : "<strong>Professor at SDU</strong> <br />&#10003; Embodied Intelligence <br />&#10003; Computer Vision <br />&#10003 Unmanned Systems<br /> &#10003; Remote Sensing"
   location         : "Jinan, Shandong"
-  employer         :
+  employer         : "Shandong University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hHUH1VAAAAAJ"
   email            : "congzhang@sdu.edu.cn"

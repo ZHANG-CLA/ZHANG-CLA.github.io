@@ -10,11 +10,12 @@ $doc-font-size              : 14;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
-$indent-var                 : 0.5em;
+$indent-var                 : 0.7em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+$sans-serif                 : Verdana
+// $sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;

@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "ZHANG Cong’s Homepage"
-description              : ""
+description              : "<strong>Professor at SDU</strong>"
 repository               : "ZHANG-CLA/zhangcong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dr. ZHANG Cong"
   avatar           : "images/ZHANGCong.JPG"
-  bio              : "<strong>Professor at SDU</strong> <br />&#10003; Embodied Intelligence <br />&#10003; Computer Vision <br />&#10003 Unmanned Systems<br /> &#10003; Remote Sensing"
-  location         : "Jinan, Shandong"
+  bio              : "<br />&#10003; Embodied Intelligence <br />&#10003; Computer Vision <br />&#10003 Unmanned Systems<br /> &#10003; Remote Sensing"
+  location         : 
   employer         : "Shandong University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hHUH1VAAAAAJ"

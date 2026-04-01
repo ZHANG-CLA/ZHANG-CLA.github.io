@@ -126,7 +126,7 @@ Cong Zhang obtained his PhD from The Hong Kong Polytechnic University, supervise
   
 <span class='anchor' id='HonorsandAwards'></span>
 # 🎖 Honors and Awards
-- CVPR NITRE Challenge 3rd Place Award, *2025*
+- CVPR NTIRE Challenge 3rd Place Award, *2025*
 - Outstanding Exploration Award in PRCV Competitions, *2025*
 - National Scholarship (Top 1%), *2018*
 - Outstanding Master Thesis Award (Top 1%), *2021*

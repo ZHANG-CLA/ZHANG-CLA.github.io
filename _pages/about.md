@@ -91,19 +91,22 @@ Cong Zhang obtained his PhD from The Hong Kong Polytechnic University, supervise
   + Remote Sensing, *Guest Editor*
   + Frontiers in Remote Sensing, Guest Editor
   + GIScience, *Editorial Board Member*
-- **Special Session/Workshop Organizer**
+- **Tutorial/Special Session/Workshop Organizer**
+  + International Conference on Pattern Recognition (ICPR), *Tutorial Organizer*, 2026
+  + International Conference on Intelligent Robots and Systems (IROS), *Special Session Organizer*, 2026
   + IEEE International Conference on Multimedia & Expo (ICME), *Special Session Lead Organizer*, 2026
   + ACM International Conference on Multimedia in Asia (MMAsia), *Workshop Organizer*, 2025  
-- **Journal Regular Reviewer (40+)**
+- **Journal Regular Reviewer (50+)**
+  + IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
   + IEEE Transactions on Cybernetics (IEEE TCYB)
   + IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE TSMCA)
-  + IEEE Transactions on Instrumentation and Measurement (IEEE TIM)
+  + IEEE Transactions on Image Processing (IEEE TIP)
+  + IEEE Transactions on Multimedia (IEEE TMM)
   + IEEE Transactions on Industrial Informatics (IEEE TII)
   + IEEE Transactions on Industrial Electronics (IEEE TIE)
   + IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
   + IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
-  + IEEE Transactions on Image Processing (IEEE TIP)
-  + IEEE Transactions on Multimedia (IEEE TMM)
+  + IEEE Transactions on Instrumentation and Measurement (IEEE TIM)
   + IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
   + IEEE Transactions on Consumer Electronics (IEEE TCE)
   + IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
@@ -113,9 +116,10 @@ Cong Zhang obtained his PhD from The Hong Kong Polytechnic University, supervise
 - **Conference Area Chair/PC/TPC Member/Reviewer**
   + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   + International Conference on Learning Representations (ICLR)
+  + European Conference on Computer Vision (ECCV)
   + AAAI Conference on Artificial Intelligence (AAAI)
-  + International Joint Conference on Artificial Intelligence (IJCAI)
   + ACM International Conference on Multimedia (ACMMM)
+  + International Joint Conference on Artificial Intelligence (IJCAI)
   + IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
   + IEEE International Conference on Multimedia & Expo (ICME)
   + IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)

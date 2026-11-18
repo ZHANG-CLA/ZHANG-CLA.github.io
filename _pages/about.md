@@ -92,6 +92,7 @@ Cong Zhang obtained his PhD from The Hong Kong Polytechnic University, supervise
 # 💻 Academic Activities
 - **Associate Editor/Editorial Board Member/Guest Editor**
   + Frontiers in Imaging, *Associate Editor*
+  + Intelligent Unmanned Technologies and Systems, *Associate Editor*
   + IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, *Guest Editor*
   + Remote Sensing, *Guest Editor*
   + Frontiers in Remote Sensing, Guest Editor

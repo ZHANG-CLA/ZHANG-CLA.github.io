@@ -45,8 +45,12 @@ Cong Zhang obtained his PhD from The Hong Kong Polytechnic University, supervise
 # 📝 Publications 
 - **Full Publication List: [Google Scholar](https://scholar.google.com.hk/citations?user=hHUH1VAAAAAJ)**
 - **Selected Publications**
-  + **Cong Zhang**, Chuang Yang, Yakun Ju, Jun Xiao, Muwei Jian, Kin-Man Lam, and Qi Wang, "Dynamic Mutual Learning for Object Detection in Aerial Imagery," IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), 2026.
-  + Rongkang Dong, Cuixin Yang, **Cong Zhang^***, Jun Xiao, and Kin-Man Lam, "Exploring Basic Expression Representation for Compound Facial Expression Recognition," IEEE Transactions on Multimedia (IEEE TMM), 2026.
+  + **Cong Zhang**, Zihang Lyu, Jun Xiao, Yakun Ju, Kin-Man Lam, and Qi Wang, "Optimal Transport Minimization: Learning Implicit Distribution Invariance for One-Shot Object Detection,” IEEE Transactions on Multimedia (IEEE TMM), 2026
+  + Rongkang Dong, Cuixin Yang, **Cong Zhang**, Yushen Zuo, and Kin-Man Lam, “Emotion Diffusion Classifier with Adaptive Margin Discrepancy Training for Facial Expression Recognition,” IEEE Transactions on Affective Computing (IEEE TAFFC), 2026.
+  + Yuan Jiang, Chuang Yang, Jiaze Li, **Cong Zhang**, Zhigang Yang, and Qi Wang, “CityFly: Signmark-Guided Autonomous UAV Navigation with Vision Language Model,” Pattern Recognition, vol. 181, 2027.
+  + Zihang Lyu, Zhuoyuan Li, **Cong Zhang***, Yun Li, and Kin-Man Lam, “Depth Spectral Fingerprints: AI-Generated Image Detection via Compact Depth Representations,” Pattern Recognition Letter, vol. 20, 2026.
+  + **Cong Zhang**, Chuang Yang, Yakun Ju, Jun Xiao, Muwei Jian, Kin-Man Lam, and Qi Wang, "Dynamic Mutual Learning for Object Detection in Aerial Imagery," IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), vol. 64, 2026.
+  + Rongkang Dong, Cuixin Yang, **Cong Zhang***, Jun Xiao, and Kin-Man Lam, "Exploring Basic Expression Representation for Compound Facial Expression Recognition," IEEE Transactions on Multimedia (IEEE TMM), 2026.
   + Runmin Cong, Anpeng Wang, Bin Wan, **Cong Zhang**, Xiaofei Zhou, Wei Zhang, "Divide-and-Conquer Decoupled Network for Cross-Domain Few-Shot Segmentation", AAAI Conference on Artificial Intelligence (AAAI), 2026.
   + Cuixin Yang, Rongkang Dong, Jun Xiao, **Cong Zhang**, Kin-Man Lam, Fei Zhou, and Guoping Qiu, "Geometric Distortion Guided Transformer for Omnidirectional Image Super-Resolution," IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), 2025.
   + Yakun Ju, Yuying Zhao, Jun Xiao, **Cong Zhang**, Zheheng Jiang, Huiyu Zhou, Wei Zhou, Hui Yu, and Junyu Dong, "Photometric Regularization for 3D Gaussian Splatting in Multi-View Surface Projection," IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP), 2025.
